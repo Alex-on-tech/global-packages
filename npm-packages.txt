@@ -1,0 +1,1 @@
+npm i -g typescript ts-node nodemon eslint prettier npm-check-updates http-server serve pm2 vite

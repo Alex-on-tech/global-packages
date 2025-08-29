@@ -1,0 +1,103 @@
+# =====================================
+#           Web Frameworks
+#======================================
+django
+flask
+fastapi
+uvicorn
+gunicorn
+hypercorn
+beautifulsoup4
+# =====================================
+#           Databases
+#======================================
+mysqlclient
+PyMySQL
+sqlalchemy
+alembic
+pymongo
+mongoengine
+motor
+databases
+tortoise-orm
+# =====================================
+#           APIs and Serialization
+#======================================
+flask-restful
+djangorestframework
+marshmallow
+pydantic
+pydantic-settings
+fastapi-utils
+flask-apispec
+# =====================================
+#           Auth and Security
+#======================================
+passlib
+flask-jwt-extended
+django-allauth
+bcrypt
+pywjt
+djangorestframework-simplejwt
+cryptography
+python-decouple
+python-dotenv
+oauthlib
+django-environ
+# =====================================
+#           React Integration
+#======================================
+django-cors-header
+flask-cors
+whitenoise
+# =====================================
+#           Real-Time and Background Tasks
+#======================================
+channels
+channels-redis
+flask-socketio
+python-socketio
+celery
+redis
+# =====================================
+#           Testing and DevTools
+#======================================
+pytest
+pytest-django
+pytest-asyncio
+httpx
+coverage
+factory-boy
+black
+isort
+flake8
+# =====================================
+#           Utilities
+#======================================
+requests
+pillow
+loguru
+rich
+typer
+email-validator
+dj-database-url
+boto3
+google-cloud-storage
+# =====================================
+#           Data & Numbers
+#======================================
+numpy
+matplotlib
+scikitlearn
+scipy
+pandas
+openpyxl
+python-dateutil
+pendulum
+seaborn
+plotly
+tabulate
+orjson
+pyyaml
+faker
+num2words

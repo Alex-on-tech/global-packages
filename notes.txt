@@ -1,0 +1,20 @@
+#=========================
+# pip
+#=========================
+
+# Installation:
+pip install -r requirements.txt
+
+# Useful Packages for Web-Development using Python
+
+# Listing all packages
+pip list
+
+#=========================
+# npm
+#=========================
+
+# Installation:
+npm install -g <package-name>
+
+# Global packages that are useful in development using JS or ts
