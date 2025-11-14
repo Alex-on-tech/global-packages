@@ -9,3 +9,18 @@ npm create vite@latest client --template react
 
 # Client side generator - react + typescript
 npm create vite@latest client --template react-swc-ts
+
+# Useful packages for backend development
+express
+mongoose
+dotenv
+bcryptjs
+jsonwebtoken
+cors
+morgan
+body-parser
+cookie-parser
+
+# Useful packages for frontend development
+axios
+react-router-dom
