@@ -1,1 +1,11 @@
+# Global packages
 npm i -g typescript ts-node nodemon eslint prettier npm-check-updates http-server serve pm2 vite
+
+# Express generator
+npx express-generator --no-view --git ./
+
+# Client side generator - react
+npm create vite@latest client --template react
+
+# Client side generator - react + typescript
+npm create vite@latest client --template react-swc-ts
